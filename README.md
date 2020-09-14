@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi 👋
 
-![ok](https://code.org/shared/images/social-media/codeorg2019_social.png)
+![ok](https://github.com/sarah1sabri/sarah1sabri/blob/master/git.png)
 
 - 🌱 I’m currently learning cross-platform mobile development (Flutter focused) 
-- 🤔 I’m looking for help with 
+- 🤔 I developed Shop App by Flutter
 
